@@ -1,6 +1,6 @@
 # Curso de Unity 5.x - XII Sematron (2016)
 
-Projeto desenvolvido durante o [XI Sematron 2016](http://www.sematron.com.br/) que acontece na EESC/USP. 
+Projeto desenvolvido durante o [XII Sematron 2016](http://www.sematron.com.br/) que acontece na EESC/USP. 
 
 ## Missão do Evento
 
