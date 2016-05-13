@@ -10,12 +10,16 @@ Promover o intercâmbio de conhecimento através de eventos acadêmicos de excel
 
 Durante o curso foram vistos:
 
-* Introdução a Unity 5.0.2
-* Visao geral 
+* Introdução a Unity 5.3.4
+* Visao geral da ferramenta
 * Manipulação de objetos
-* Movimento do personagem
+* Entradas do teclado
 * Materiais
 * Corpo rígido
+* Waypoints
+* Colisores e Triggers
+* SceneManager
+* UI (Canvas, Image, Button e Text)
 * Conceitos básicos de C#
 
 ## Cenas do jogo
