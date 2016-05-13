@@ -18,6 +18,16 @@ Durante o curso foram vistos:
 * Corpo rígido
 * Conceitos básicos de C#
 
+## Cenas do jogo
+
+O menu do jogo tem um background do evento, um botão "play" para iniciar o jogo e um botão para "exit" sair
+
+![menu](http://prntscr.com/b3f1ll)
+
+O jogo é composto por paredes amarelas, dois inimigos vermelhos que se movem linearmente pelo cenário. O objetivo do jogador é chegar no portal verde no fim do mapa, porém, toda vez que colidir com um inimigo ele volta ao início do jogo.
+
+![gameplay](http://prntscr.com/b3f1l6)
+
 ## Contato
 
 Para contato com o professor é só enviar email para pdjkleber@gmail.com
