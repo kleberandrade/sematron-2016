@@ -22,11 +22,11 @@ Durante o curso foram vistos:
 
 O menu do jogo tem um background do evento, um botão "play" para iniciar o jogo e um botão para "exit" sair
 
-![menu](http://prntscr.com/b3f1ll)
+![menu](http://img.prntscr.com/img?url=http://i.imgur.com/CvBNrPM.png)
 
 O jogo é composto por paredes amarelas, dois inimigos vermelhos que se movem linearmente pelo cenário. O objetivo do jogador é chegar no portal verde no fim do mapa, porém, toda vez que colidir com um inimigo ele volta ao início do jogo.
 
-![gameplay](http://prntscr.com/b3f1l6)
+![gameplay](http://img.prntscr.com/img?url=http://i.imgur.com/HnKCUYK.png)
 
 ## Contato
 
